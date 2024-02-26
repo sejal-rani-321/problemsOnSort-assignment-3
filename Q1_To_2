@@ -1,0 +1,5 @@
+Q1. What is an in-place sorting algorithm?
+d) It needed o(1) O(logn) memory to create auxiliary locations
+
+In the following scenarios, when will you use selection sort?
+c) Large values need to be sorted with small keys
